@@ -1,0 +1,4 @@
+# sparksolr
+
+sbt clean assembly
+
